@@ -1,0 +1,10 @@
+# Ignore large dataset if needed
+data/owid-covid-data.csv
+
+# Python / Jupyter cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
