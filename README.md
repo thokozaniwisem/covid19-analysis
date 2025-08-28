@@ -1,6 +1,6 @@
 # COVID-19 Trends Analysis (OWID Data)
 
-This project uses the **Our World in Data (OWID)** COVID-19 dataset to explore global trends, vaccination rollouts, and anomalies kept simple and human friendly
+This project uses the **Our World in Data (OWID)** COVID-19 dataset to explore global trends, vaccination rollouts, and anomalies
 
 ---
 
